@@ -1,4 +1,4 @@
-# Fan Yiyun Olivia
+# Fan Yiyun Olivia 
 
 ## About me
 Hi everyone, this is Olivia. I am linguist working majorly at the fields of Sociolinguistics and Applied Linguistics. Currently, I am working as a Research Associate at the National University of Singapore. 
@@ -38,8 +38,7 @@ I work majorly on the speaking or writing competence of L2-English students in H
 * 06/2024     Fan, Yiyun. Masculinity representation in dating app profiles of Singaporean heterosexual men. Paper presentation. Sociolinguistics Symposium 25, Curtin University, Perth.
  
 * 11/2022     Fan, Yiyun. Masculinity representation in dating app profiles of Singaporean heterosexual men, preliminary results. Virtual presentation. The 1st International Forum on Study of Language Data Science and Applications for Young Scholars, The Institute of Corpus Studies and Applications, Shanghai.
-####   
-####  
+
 ## My education
 ### Master of Arts in English Language and Linguistics
 #### National University of Singapore
