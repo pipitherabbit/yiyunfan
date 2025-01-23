@@ -9,12 +9,12 @@ Email: oliviafawn62 at gmail dot com
 ## My research
 * Sociolinguistics
 I work majorly on sociophonetics, emphasizing how phonological features in production, alongside culturally shared knowledge, shape social perceptions and reinforce stereotypes.
-#### 
+ 
 * Applied Linguistics
 I work majorly on the speaking or writing competence of L2-English students in Hong Kong S.A.R., China, and Singapore.
 
 ## My publications 
-* 2024            Fan, Yiyun, Sheng Tan and Grace Yuk Wan Lim. [EAP teacher feedback in the age of AI: Supporting first-year students in EFL disciplinary writing(https://doi.org/10.29140/ajal.v7n3.1943)]. Australian Journal of Applied Linguistics 7(3).
+* 2024            Fan, Yiyun, Sheng Tan and Grace Yuk Wan Lim. [EAP teacher feedback in the age of AI: Supporting first-year students in EFL disciplinary writing](https://doi.org/10.29140/ajal.v7n3.1943). Australian Journal of Applied Linguistics 7(3).
   
 * To appear   Fan, Yiyun, Kah Loon Ng and Wan Mei Amanda Soon. Curriculum reform in data science education: Enhancing learning outcomes with scaffolding learning through data storytelling (SLDS). Proceedings of the 16th Asian Conference on Education (ACE) 2024.
 
@@ -31,7 +31,7 @@ I work majorly on the speaking or writing competence of L2-English students in H
 ####   
 * 04/2025     Fan, Yiyun, Kah Loon Ng and Wan Mei Amanda Soon. Creative data science learning: Unveiling the impact of scaffolding learning through data storytelling. Virtual presentation. International Conference on Education in Mathematics, Science and Technology 2025, Megasaray Westbeach Antalya, Turkey.
 ####   
-* 12/2024     Fan, Yiyun, Wan Mei Amanda Soon and Kah Loon Ng. [[Opportunities for students’ wellbeing: Enhancing perceptions of data science through data storytelling in a diverse classroom context](https://blog.nus.edu.sg/hecs/hecs2024-yyfan-et-al/)]. Poster presentation. Higher Education Conference in Singapore 2024, National University of Singapore, Singapore.
+* 12/2024     Fan, Yiyun, Wan Mei Amanda Soon and Kah Loon Ng. [Opportunities for students’ wellbeing: Enhancing perceptions of data science through data storytelling in a diverse classroom context](https://blog.nus.edu.sg/hecs/hecs2024-yyfan-et-al/). Poster presentation. Higher Education Conference in Singapore 2024, National University of Singapore, Singapore.
 ####   
 * 11/2024     Fan, Yiyun, Kah Loon Ng and Wan Mei Amanda Soon. Curriculum reform in data science education: Enhancing learning outcomes with scaffolding learning through data storytelling. Paper presentation.. The 16th Asian Conference on Education, Toshi Center Hotel, Tokyo.
 ####   
@@ -39,6 +39,7 @@ I work majorly on the speaking or writing competence of L2-English students in H
 ####   
 * 11/2022     Fan, Yiyun. Masculinity representation in dating app profiles of Singaporean heterosexual men, preliminary results. Virtual presentation. The 1st International Forum on Study of Language Data Science and Applications for Young Scholars, The Institute of Corpus Studies and Applications, Shanghai.
 ####   
+####  
 ## My education
 ### Master of Arts in English Language and Linguistics
 #### National University of Singapore
